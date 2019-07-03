@@ -1,0 +1,495 @@
+------------ EVENT --------------
+Venue: Budweiser Stage
+Location: Toronto 
+July 10, 2019 3:30 AM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Saratoga Springs NY
+July 11, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Canandaigua NY
+July 12, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 13, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 14, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 19, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 20, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Brandon MS
+July 21, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Pelham AL
+July 25, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Atlanta GA
+July 26, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: North Sea Jazz Festival 
+Location: Rotterdam 
+July 12, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Somerset House Summer Series
+Location: London 
+July 14, 2019 7:30 PM
+
+------------ EVENT --------------
+Venue: Place Massena - Jardin Albert 1er
+Location: Nice 
+July 16, 2019 6:59 PM
+
+------------ EVENT --------------
+Venue: Splendour in the Grass 
+Location: Yelgun 
+July 20, 2019 6:00 PM
+
+------------ EVENT --------------
+Venue: Oxford Art Factory
+Location: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: The Corner Hotel
+Location: Richmond 
+July 22, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Paleo Festival Nyon
+Location: Nyon 
+July 27, 2019 3:30 PM
+
+------------ EVENT --------------
+Venue: Benjamin Franklin Parkway
+Location: Philadelphia PA
+August 31, 2019 12:00 PM
+
+------------ EVENT --------------
+Venue: Made In America 
+Location: Philadelphia PA
+September 1, 2019 2:00 PM
+
+------------ EVENT --------------
+Venue: Doheny State Beach
+Location: Dana Point CA
+September 27, 2019 1:00 PM
+
+------------ EVENT --------------
+Venue: Ozy Fest
+Location: New York NY
+July 20, 2019 11:00 AM
+
+------------ EVENT --------------
+Venue: Auditorio de Marbella, La Cantera de Nagüeles
+Location: Marbella 
+July 24, 2019 10:00 PM
+
+------------ EVENT --------------
+Venue: Taormina4Ever
+Location: Taormina 
+July 25, 2019 9:00 PM
+
+------------ EVENT --------------
+Venue: International Tennis Hall of Fame
+Location: Newport RI
+October 4, 2019 7:30 PM
+
+------------ EVENT --------------
+Venue: North Sea Jazz Festival 
+Location: Rotterdam 
+July 12, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Somerset House Summer Series
+Location: London 
+July 14, 2019 7:30 PM
+
+------------ EVENT --------------
+Venue: Place Massena - Jardin Albert 1er
+Location: Nice 
+July 16, 2019 6:59 PM
+
+------------ EVENT --------------
+Venue: Splendour in the Grass 
+Location: Yelgun 
+July 20, 2019 6:00 PM
+
+------------ EVENT --------------
+Venue: Oxford Art Factory
+Location: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: The Corner Hotel
+Location: Richmond 
+July 22, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Paleo Festival Nyon
+Location: Nyon 
+July 27, 2019 3:30 PM
+
+------------ EVENT --------------
+Venue: Benjamin Franklin Parkway
+Location: Philadelphia PA
+August 31, 2019 12:00 PM
+
+------------ EVENT --------------
+Venue: Made In America 
+Location: Philadelphia PA
+September 1, 2019 2:00 PM
+
+------------ EVENT --------------
+Venue: Doheny State Beach
+Location: Dana Point CA
+September 27, 2019 1:00 PM
+
+------------ EVENT --------------
+Venue: Budweiser Stage
+Location: Toronto 
+July 10, 2019 3:30 AM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Saratoga Springs NY
+July 11, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Canandaigua NY
+July 12, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 13, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 14, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 19, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 20, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Brandon MS
+July 21, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Pelham AL
+July 25, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Atlanta GA
+July 26, 2019 7:00 PM
+YYYY-MM-DDTHH:mm:ss
+------------ EVENT --------------
+Venue: Budweiser Stage
+Location: Toronto 
+July 10, 2019 3:30 AM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Saratoga Springs NY
+July 11, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Canandaigua NY
+July 12, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 13, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 14, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 19, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 20, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Brandon MS
+July 21, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Pelham AL
+July 25, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Atlanta GA
+July 26, 2019 7:00 PM
+------------ EVENT --------------
+Venue: Budweiser Stage
+Location: Toronto 
+July 10, 2019 3:30 AM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Saratoga Springs NY
+July 11, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Canandaigua NY
+July 12, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 13, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Wantagh NY
+July 14, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 19, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Orange Beach AL
+July 20, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Brandon MS
+July 21, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Pelham AL
+July 25, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sunset Repeat Tour
+Location: Atlanta GA
+July 26, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: BB&T Pavilion
+Location: Camden NJ
+August 23, 2019 3:30 AM
+
+------------ EVENT --------------
+Venue: Canalta Centre
+Location: Medicine Hat 
+October 24, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Encana Events Centre
+Location: Dawson Creek 
+October 26, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: CN Centre
+Location: Prince George 
+October 27, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Sandman Centre
+Location: Kamloops 
+October 29, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: South Okanagan Events Centre
+Location: Penticton 
+October 30, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Abbotsford Centre
+Location: Abbotsford 
+November 1, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: North Sea Jazz Festival 
+Location: Rotterdam 
+July 12, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Somerset House Summer Series
+Location: London 
+July 14, 2019 7:30 PM
+
+------------ EVENT --------------
+Venue: Place Massena - Jardin Albert 1er
+Location: Nice 
+July 16, 2019 6:59 PM
+
+------------ EVENT --------------
+Venue: Splendour in the Grass 
+Location: Yelgun 
+July 20, 2019 6:00 PM
+
+------------ EVENT --------------
+Venue: Oxford Art Factory
+Location: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: The Corner Hotel
+Location: Richmond 
+July 22, 2019 7:00 PM
+
+------------ EVENT --------------
+Venue: Paleo Festival Nyon
+Location: Nyon 
+July 27, 2019 3:30 PM
+
+------------ EVENT --------------
+Venue: Benjamin Franklin Parkway
+Location: Philadelphia PA
+August 31, 2019 12:00 PM
+
+------------ EVENT --------------
+Venue: Made In America 
+Location: Philadelphia PA
+September 1, 2019 2:00 PM
+
+------------ EVENT --------------
+Venue: Doheny State Beach
+Location: Dana Point CA
+September 27, 2019 1:00 PM
+
+********** EVENT **********
+Venue: North Sea Jazz Festival 
+Location: Rotterdam 
+July 12, 2019 7:00 PM
+
+********** EVENT **********
+Venue: Somerset House Summer Series
+Location: London 
+July 14, 2019 7:30 PM
+
+********** EVENT **********
+Venue: Place Massena - Jardin Albert 1er
+Location: Nice 
+July 16, 2019 6:59 PM
+
+********** EVENT **********
+Venue: Splendour in the Grass 
+Location: Yelgun 
+July 20, 2019 6:00 PM
+
+********** EVENT **********
+Venue: Oxford Art Factory
+Location: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+
+********** EVENT **********
+Venue: The Corner Hotel
+Location: Richmond 
+July 22, 2019 7:00 PM
+
+********** EVENT **********
+Venue: Paleo Festival Nyon
+Location: Nyon 
+July 27, 2019 3:30 PM
+
+********** EVENT **********
+Venue: Benjamin Franklin Parkway
+Location: Philadelphia PA
+August 31, 2019 12:00 PM
+
+********** EVENT **********
+Venue: Made In America 
+Location: Philadelphia PA
+September 1, 2019 2:00 PM
+
+********** EVENT **********
+Venue: Doheny State Beach
+Location: Dana Point CA
+September 27, 2019 1:00 PM
+
+********** EVENT **********
+Venue Name: North Sea Jazz Festival 
+Location of Venue: Rotterdam 
+July 12, 2019 7:00 PM
+
+********** EVENT **********
+Venue Name: Somerset House Summer Series
+Location of Venue: London 
+July 14, 2019 7:30 PM
+
+********** EVENT **********
+Venue Name: Place Massena - Jardin Albert 1er
+Location of Venue: Nice 
+July 16, 2019 6:59 PM
+
+********** EVENT **********
+Venue Name: Splendour in the Grass 
+Location of Venue: Yelgun 
+July 20, 2019 6:00 PM
+
+********** EVENT **********
+Venue Name: Oxford Art Factory
+Location of Venue: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+
+********** EVENT **********
+Venue Name: North Sea Jazz Festival 
+Location of Venue: Rotterdam 
+July 12, 2019 7:00 PM
+NaN
+********** EVENT **********
+Venue Name: Somerset House Summer Series
+Location of Venue: London 
+July 14, 2019 7:30 PM
+NaN
+********** EVENT **********
+Venue Name: Place Massena - Jardin Albert 1er
+Location of Venue: Nice 
+July 16, 2019 6:59 PM
+NaN
+********** EVENT **********
+Venue Name: Splendour in the Grass 
+Location of Venue: Yelgun 
+July 20, 2019 6:00 PM
+NaN
+********** EVENT **********
+Venue Name: Oxford Art Factory
+Location of Venue: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
+NaN

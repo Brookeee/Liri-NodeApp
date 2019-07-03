@@ -10,6 +10,7 @@ var axios = require("axios");
 var fs = require("fs");
 //Moment
 var moment = require("moment");
+moment().format();
 
 // Capture users input
 var gotype = process.argv[2];
@@ -41,21 +42,37 @@ var apiType = function(gotype, nodeInput) {
 
 apiType(gotype, nodeInput);
 
-// Bands in town logic **WIP, need to fix undefined**
-function concert() {
-  var artist = nodeInput;
+// Bands in town logic **FIXED**
+function concert(nodeInput) {
+  axios
+    .get(
+      "https://rest.bandsintown.com/artists/" +
+        nodeInput +
+        "/events?app_id=codingbootcamp"
+    )
+    .then(function(response) {
+      for (var i = 0; i < 5; i++) {
+        var concert = response.data[i];
+        var format = moment.HTML5_FMT.DATETIME_LOCAL_SECONDS;
+        var date = moment(concert.datetime).format("LLL");
 
-  var concertQuery =
-    "https://rest.bandsintown.com/artists/" +
-    artist +
-    "/events?app_id=codingbootcamp";
-  axios.get(concertQuery).then(function(response) {
-    for (var i = 0; i < 10; i++) {
-      console.log("Venue Name: " + response[0].venue.name);
-      console.log("Venue Location: " + response[0].venue.city);
-      console.log("Date of Event: " + response.data[0].datetime);
-    }
-  });
+        console.log("********** EVENT **********");
+        fs.appendFileSync("log.txt", "********** EVENT **********\n");
+        console.log("Venue Name: " + concert.venue.name);
+        fs.appendFileSync("log.txt", "Venue Name: " + concert.venue.name + "\n");
+        console.log(
+          "Location of Venue: " + concert.venue.city + " " + concert.venue.region
+        );
+        fs.appendFileSync(
+          "log.txt",
+          "Location of Venue: " + concert.venue.city + " " + concert.venue.region + "\n"
+        );
+        console.log(date);
+        fs.appendFileSync("log.txt", date + "\n");
+        console.log(format);
+        fs.appendFileSync("log.txt", + format +"\n");  // Error occuring time stamp HH:mm:YYY 
+      }
+    });
 }
 
 // Spotify Logic, **FIXED song search
