@@ -493,3 +493,48 @@ Venue Name: Oxford Art Factory
 Location of Venue: Darlinghurst Nsw 
 July 21, 2019 7:00 PM
 NaN
+********** EVENT **********
+Venue Name: Budweiser Stage
+Location of Venue: Toronto 
+July 10, 2019 3:30 AM
+NaN
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Saratoga Springs NY
+July 11, 2019 7:00 PM
+NaN
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Canandaigua NY
+July 12, 2019 7:00 PM
+NaN
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Wantagh NY
+July 13, 2019 7:00 PM
+NaN
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Wantagh NY
+July 14, 2019 7:00 PM
+NaN
+********** EVENT **********
+Venue Name: Budweiser Stage
+Location of Venue: Toronto 
+July 10, 2019 3:30 AM
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Saratoga Springs NY
+July 11, 2019 7:00 PM
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Canandaigua NY
+July 12, 2019 7:00 PM
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Wantagh NY
+July 13, 2019 7:00 PM
+********** EVENT **********
+Venue Name: Sunset Repeat Tour
+Location of Venue: Wantagh NY
+July 14, 2019 7:00 PM

@@ -79,8 +79,8 @@ function concert(nodeInput) {
         );
         console.log(date);
         fs.appendFileSync("log.txt", date + "\n");
-        console.log(format);
-        fs.appendFileSync("log.txt", +format + "\n"); // Error occuring time stamp HH:mm:YYY
+        // console.log(format);
+        // fs.appendFileSync("log.txt", + format + "\n"); // Error occuring time stamp HH:mm:YYY
       }
     });
 }
