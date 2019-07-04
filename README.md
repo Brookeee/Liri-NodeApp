@@ -12,7 +12,7 @@ How it works:
 - Bands in Town
   Enter in terminal: `node liri.js concert-this <artist/band name here>`
   -The following results should return:
-![GitHub Logo](/images/concert-this.png)
+  
 - Name of the venue
 - Venue location
 - Date of the Event (use moment to format this as "MM/DD/YYYY")

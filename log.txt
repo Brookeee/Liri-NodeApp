@@ -538,3 +538,23 @@ July 13, 2019 7:00 PM
 Venue Name: Sunset Repeat Tour
 Location of Venue: Wantagh NY
 July 14, 2019 7:00 PM
+********** EVENT **********
+Venue Name: North Sea Jazz Festival 
+Location of Venue: Rotterdam 
+July 12, 2019 7:00 PM
+********** EVENT **********
+Venue Name: Somerset House Summer Series
+Location of Venue: London 
+July 14, 2019 7:30 PM
+********** EVENT **********
+Venue Name: Place Massena - Jardin Albert 1er
+Location of Venue: Nice 
+July 16, 2019 6:59 PM
+********** EVENT **********
+Venue Name: Splendour in the Grass 
+Location of Venue: Yelgun 
+July 20, 2019 6:00 PM
+********** EVENT **********
+Venue Name: Oxford Art Factory
+Location of Venue: Darlinghurst Nsw 
+July 21, 2019 7:00 PM
