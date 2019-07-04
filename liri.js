@@ -28,7 +28,7 @@ var apiType = function(gotype, nodeInput) {
       song(nodeInput);
       break;
     case "movie-this":
-      movie(nodeInput);
+      movieInfo(nodeInput);
       break;
     case "do-what-it-says":
       says();
@@ -59,18 +59,28 @@ function concert(nodeInput) {
         console.log("********** EVENT **********");
         fs.appendFileSync("log.txt", "********** EVENT **********\n");
         console.log("Venue Name: " + concert.venue.name);
-        fs.appendFileSync("log.txt", "Venue Name: " + concert.venue.name + "\n");
+        fs.appendFileSync(
+          "log.txt",
+          "Venue Name: " + concert.venue.name + "\n"
+        );
         console.log(
-          "Location of Venue: " + concert.venue.city + " " + concert.venue.region
+          "Location of Venue: " +
+            concert.venue.city +
+            " " +
+            concert.venue.region
         );
         fs.appendFileSync(
           "log.txt",
-          "Location of Venue: " + concert.venue.city + " " + concert.venue.region + "\n"
+          "Location of Venue: " +
+            concert.venue.city +
+            " " +
+            concert.venue.region +
+            "\n"
         );
         console.log(date);
         fs.appendFileSync("log.txt", date + "\n");
         console.log(format);
-        fs.appendFileSync("log.txt", + format +"\n");  // Error occuring time stamp HH:mm:YYY 
+        fs.appendFileSync("log.txt", +format + "\n"); // Error occuring time stamp HH:mm:YYY
       }
     });
 }
@@ -96,4 +106,27 @@ function song(nodeInput) {
       console.log("Album: " + data.tracks.items[0].album.name);
     }
   );
+}
+// OMDB logic ** FIXED*
+
+function movieInfo(nodeInput) {
+  if (!nodeInput) {
+    nodeInput = "Mr. Nobody";
+  }
+
+  axios
+    .get(
+      "http://www.omdbapi.com/?t=" + nodeInput + "&y=&plot=short&apikey=trilogy"
+    )
+    .then(function(response) {
+      console.log("******* MOVIE ******");
+      console.log("Title: " + response.data.Title);
+      console.log("Year: " + response.data.Year);
+      console.log("IMDB Rating: " + response.data.imdbRating);
+      console.log("Country: " + response.data.Country);
+      console.log("Language: " + response.data.Language);
+      console.log("Movie Plot: " + response.data.Plot);
+      console.log("Actors:" + response.data.Actors);
+      console.log("******* MOVIE ******");
+    });
 }
