@@ -133,12 +133,12 @@ function movieInfo(nodeInput) {
 
 // Random.txt file read ** NOT WORKING, error for .split not a function error**
 
-function says(nodeInput){
-  fs.readFile("./random.txt", function(error, data){
-    if (error) {
-      return console.log(error);
-    }
-      var txtArray = data.split(",");
-    }
-,)}
+// function says(nodeInput){
+//   fs.readFile("./random.txt", function(error, data){
+//     if (error) {
+//       return console.log(error);
+//     }
+//       var txtArray = data.split(",");
+//     }
+// ,)}
 // TO DO: NEED TO ADD TO PORTFOLIO, CREATE NODE.JS CLICKABLE ICON AND HREF LINKS FOR ASSIGNMENT 
