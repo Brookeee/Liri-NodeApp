@@ -35,7 +35,7 @@ var apiType = function(gotype, nodeInput) {
       break;
     default:
       console.log(
-        "Input not recognized. Options: \nconcert-this \ndo-waht-it-says \nspotify-this-song \nmovie-this"
+        "Input not recognized. Options: \nconcert-this \ndo-what-it-says \nspotify-this-song \nmovie-this"
       );
   }
 };
@@ -88,7 +88,7 @@ function concert(nodeInput) {
 // Spotify Logic, **FIXED song search
 
 function song(nodeInput) {
-  if (nodeInput === undefined) {
+  if (!nodeInput) {
     nodeInput = "I Want it That Way"; // Default Song
   }
   spotify.search(
@@ -130,3 +130,15 @@ function movieInfo(nodeInput) {
       console.log("******* MOVIE ******");
     });
 }
+
+// Random.txt file read ** NOT WORKING, error for .split not a function error**
+
+function says(nodeInput){
+  fs.readFile("./random.txt", function(error, data){
+    if (error) {
+      return console.log(error);
+    }
+      var txtArray = data.split(",");
+    }
+,)}
+// TO DO: NEED TO ADD TO PORTFOLIO, CREATE NODE.JS CLICKABLE ICON AND HREF LINKS FOR ASSIGNMENT 
